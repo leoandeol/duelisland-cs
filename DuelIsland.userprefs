@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="DuelIsland/DuelIsland.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DuelIsland/Screens/GameplayScreen.cs">
+    <Files>
+      <File FileName="DuelIsland/Program.cs" Line="1" Column="1" />
+      <File FileName="DuelIsland/Game.cs" Line="53" Column="103" />
+      <File FileName="DuelIsland/Screens/SplashscreenScreen.cs" Line="1" Column="1" />
+      <File FileName="DuelIsland/Screens/AbstractGameScreen.cs" Line="1" Column="1" />
+      <File FileName="DuelIsland/Manager/ScreenManager.cs" Line="1" Column="1" />
+      <File FileName="DuelIsland/Manager/ResourceManager.cs" Line="1" Column="1" />
+      <File FileName="DuelIsland/Screens/GameplayScreen.cs" Line="59" Column="43" />
+      <File FileName="DuelIsland/Entity/World/World.cs" Line="200" Column="22" />
+      <File FileName="DuelIsland/Items/Item.cs" Line="1" Column="1" />
+      <File FileName="DuelIsland/Entity/World/Tile.cs" Line="39" Column="71" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <AuthorInfo Name="Léo Andéol" Email="leo.andeol@gmail.com" Copyright="" Company="" Trademark="" />
+</Properties>
